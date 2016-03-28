@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "tree"
+        "tree",
+        "tbfed-theme"
     ],
     "pluginsConfig": {}
 }
