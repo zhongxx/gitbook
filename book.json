@@ -1,7 +1,8 @@
 {
     "plugins": [
         "tree",
-        "tbfed-theme"
+        "tbfed-theme",
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {}
 }
